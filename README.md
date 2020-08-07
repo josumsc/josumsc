@@ -22,7 +22,7 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-<img align="left" alt="R" width="26px" src="<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 
 <br />
