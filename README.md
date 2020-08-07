@@ -1,7 +1,7 @@
 ## Hello everyone, I'm [Josu Alonso](https://www.linkedin.com/in/josu-alonso-castanedo/) 👋
 
 ## I'm an Analyst, BI Developper and Data enthusiastic!
-- 🔭 I’m currently working as a Data Analyst at [Promofarma](www.promofarma.com)!
+- 🔭 I’m currently working as a Data Analyst at [PromoFarma](https://www.promofarma.com)!
 - 🌱 I’m currently learning ETL Tools and cloud computing services
 - 👯 I’m looking to collaborate with other content creators (preferably on Data Engineering projects)
 - 🥅 2020 Goals: Learn Scala - Deep dive into Azure ecosystem
