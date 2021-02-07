@@ -2,9 +2,8 @@
 
 ## I'm an Analyst, BI Developer and Data enthusiastic!
 - 🔭 I’m currently working as a Data Analyst at [PromoFarma](https://www.promofarma.com)!
-- 🌱 I’m currently learning ETL Tools and cloud computing services
-- 👯 I’m looking to collaborate with other content creators (preferably on Data Engineering projects)
-- 🥅 2020 Goals: Learn Scala - Deep dive into Azure ecosystem
+- 🌱 I’m currently learning Airflow and TensorFlow
+- 👯 I’m looking to collaborate with other content creators (preferably on Data Science projects)
 - ⚡ Fun fact: Street dancer and bike lover! 
 
 ### Connect with me:
