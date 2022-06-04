@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist, ML Developer and code enthusiastic!
 - 🔭 I’m currently working as a Data Scientist at [PromoFarma](https://www.promofarma.com)!
-- 🌱 I’m currently learning Airflow and TensorFlow
+- 🌱 I’m currently learning TensorFlow specifically applied to NLP
 - 👯 I’m looking to collaborate with other content creators (preferably on Data Science projects)
 - ⚡ Fun fact: Street dancer and bike lover! 
 
